@@ -29,7 +29,7 @@
 2) localhost:8000/api/v1/team/
 	- POST:  Get the players of a team
 	
-3) localhost:8000/api/v1/players/
+3) localhost:8000/api/v1/player/
 	- GET:  Search for players that contain the String in the player name fields
 
 		
