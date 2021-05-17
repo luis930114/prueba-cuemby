@@ -41,7 +41,7 @@
 
 ## Contributing
 
-Please read (https://github.com/juandfernandezd/pokemonApi) for details on our code of conduct, and the process for 
+Please read (https://github.com/luis930114/prueba-cuemby) for details on our code of conduct, and the process for 
 submitting pull requests to us.
 
 ## Authors
